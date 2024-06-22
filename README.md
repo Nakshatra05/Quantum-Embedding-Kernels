@@ -6,7 +6,7 @@ This repository implements a quantum machine learning model using Quantum Embedd
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/qek_classifier.git
+    git clone https://github.com/Nakshatra05/Quantum-Embedding-Kernels.git
     cd qek_classifier
     ```
 
